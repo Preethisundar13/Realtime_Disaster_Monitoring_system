@@ -1,0 +1,14 @@
+streamlit
+ultralytics
+opencv-python
+pyyaml
+watchdog
+playsound==1.2.2
+twilio
+
+
+
+
+
+
+
