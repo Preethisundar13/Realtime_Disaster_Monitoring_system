@@ -1,0 +1,14 @@
+
+path: /content/xview2_drone
+train: images/train
+val: images/val
+names:
+  0: volcano
+  1: hurricane
+  2: tornado
+  3: earthquake
+  4: flooding
+  5: tsunami
+  6: bushfire
+  7: wildfire
+  8: fire
